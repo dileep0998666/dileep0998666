@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dileep Kumar 
 - 👀 I’m interested in machine leaning and stack development 
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects related to Web Development 
-- 📫 How to reach me ...
+- 📫 Reach me through linkedin www.linkedin.com/in/dileepkumar0917/
 
 <!---
 dileep0998666/dileep0998666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
